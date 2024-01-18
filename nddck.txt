@@ -1,6 +1,6 @@
 { "urls": [
 	
-{ "url": "./bj.json", "name": "🌸自用影视🌸" },
+{ "url": "https://ghcy.eu.org/https://raw.githubusercontent.com/canghaixiao369/ndd/main/bj.json", "name": "🌸自用影视🌸" },
 
 { "url": "http://52bsj.vip:98/wuai", "name": "🌺吾爱在线🌺" },
 
