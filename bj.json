@@ -17,26 +17,26 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/json/麻豆映画.json",
-      "jar": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/jar/Yoursmile21455.jar"
+      "ext": "./json/麻豆映画.json",
+      "jar": "./jar/Yoursmile21455.jar"
     },
        {
             "key": "MTV转点播1",
             "name": "💖┃本地┃本地直播💖",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/JS/js/live2mv.js",
-            "jar": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/spider.jar",
+            "api": "./JS/js/live2mv.js",
+            "jar": "./spider.jar",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/json/zhibo.json"
+            "ext": "./json/zhibo.json"
         },
         {
             "key": "*皇冠资源",
             "name": "*🔞皇冠资源",
             "type": 1,
             "api": "https://hghhh.com/api.php/provide/vod/",
-            "jar": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/0926.jar",
+            "jar": "./0926.jar",
             "searchable": 0,
             "quickSearch": 0
         },
@@ -45,7 +45,7 @@
             "name": "🔞天堂福利",
             "type": 0,
             "api": "https://bttcj.com/inc/sapi.php",
-            "jar": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/0926.jar",
+            "jar": "./0926.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -55,7 +55,7 @@
             "name": "*🔞KK写真资源",
             "type": 1,
             "api": "https://kkzy.me/api.php/provide/vod/",
-            "jar": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/0926.jar",
+            "jar": "./0926.jar",
             "searchable": 0,
             "quickSearch": 0
         },
@@ -64,7 +64,7 @@
             "name": "18AV",
             "type": 3,
             "api": "csp_Eighteen",
-            "jar": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/custom_spider.jar",
+            "jar": "./custom_spider.jar",
             "searchable": 1,
             "recordable": 0,
             "style": {
@@ -77,7 +77,7 @@
             "name": "乐乐",
             "type": 1,
             "api": "http://apilj.com/api.php/provide/vod/at/json/",
-            "jar": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/custom_spider.jar",
+            "jar": "./custom_spider.jar",
             "searchable": 1,
             "recordable": 0,
             "style": {
@@ -90,7 +90,7 @@
             "name": "大地",
             "type": 0,
             "api": "http://dadiapi.com/api.php",
-            "jar": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/custom_spider.jar",
+            "jar": "./custom_spider.jar",
             "searchable": 1,
             "recordable": 0,
             "style": {
@@ -103,7 +103,7 @@
             "name": "博天堂",
             "type": 0,
             "api": "http://bttcj.com/inc/sapi.php",
-            "jar": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/custom_spider.jar",
+            "jar": "./custom_spider.jar",
             "searchable": 1,
             "recordable": 0,
             "style": {
@@ -116,7 +116,7 @@
             "name": "CJ",
             "type": 0,
             "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
-            "jar": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/custom_spider.jar",
+            "jar": "./custom_spider.jar",
             "searchable": 1,
             "recordable": 0,
             "style": {
@@ -129,7 +129,7 @@
             "name": "SEGUO",
             "type": 1,
             "api": "http://api.sexnguon.com/api.php/provide/vod/",
-            "jar": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/custom_spider.jar",
+            "jar": "./custom_spider.jar",
             "searchable": 1,
             "recordable": 0,
             "style": {
@@ -142,7 +142,7 @@
             "name": "菲菲",
             "type": 1,
             "api": "http://www.feifei67.com/api.php/provide/vod/",
-            "jar": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/custom_spider.jar",
+            "jar": "./custom_spider.jar",
             "searchable": 1,
             "recordable": 0,
             "style": {
@@ -155,7 +155,7 @@
             "name": "色猫资源",
             "type": 1,
             "api": "https://api.maozyapi.com/inc/apijson_vod.php",
-            "jar": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/custom_spider.jar",
+            "jar": "./custom_spider.jar",
             "searchable": 1,
             "recordable": 0,
             "style": {
@@ -177,7 +177,7 @@
       "name": "🚸玉兔采集",
       "type": 1,
       "api": "https://apiyutu.com/api.php/provide/vod/",
-      "jar": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/jar/Yoursmile.jar",
+      "jar": "./jar/Yoursmile.jar",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
@@ -230,7 +230,7 @@
       "name": "🚸大地采集",
       "type": 0,
       "api": "https://dadiapi.com/api.php",
-      "jar": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/jar/Yoursmile.jar",
+      "jar": "./jar/Yoursmile.jar",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
@@ -319,7 +319,7 @@
       "name": "🚸色猫采集",
       "type": 1,
       "api": "https://caiji.semaozy.net/inc/apijson_vod.php/",
-      "jar": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/jar/Yoursmile.jar", 
+      "jar": "./jar/Yoursmile.jar", 
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
@@ -359,7 +359,7 @@
       "name": "🔞鸡坤资源",
       "type": 1,
       "api": "https://jkunzyapi.com/api.php/provide/vod/",
-      "jar": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/jar/Yoursmile.jar", 
+      "jar": "./jar/Yoursmile.jar", 
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -407,7 +407,7 @@
     "name": "老鸭1",
     "type": 1,
     "api": "https://api.apilyzy.com/api.php/provide/vod/?ac=list",
-    "jar": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/Yoursmile.jar",
+    "jar": "./Yoursmile.jar",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0
@@ -417,7 +417,7 @@
     "name": "老鸭2",
     "type": 0,
     "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
-    "jar": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/Yoursmile.jar",
+    "jar": "./Yoursmile.jar",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0
@@ -443,7 +443,7 @@
             "name": "❤色窝资源",
             "type": 1,
             "api": "https://sewozyapi.com/api.php/provide/vod/",
-            "jar": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/custom_spider.jar",
+            "jar": "./custom_spider.jar",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -453,7 +453,7 @@
             "name": "❤️┃成人1┃❤️",
             "type": 1,
             "api": "https://www.partnersky-horoskop.com/api.php/provide/vod/",
-            "jar": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/yt.jar",
+            "jar": "./yt.jar",
             "searchable": 1,
             "quickSearch": 1
         },
@@ -462,7 +462,7 @@
             "name": "各大",
             "type": 0,
             "api": "https://www.gdlsp.com/api/xml.php",
-            "jar": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/custom_spider.jar",
+            "jar": "./custom_spider.jar",
             "searchable": 1,
             "recordable": 0,
             "style": {
@@ -475,7 +475,7 @@
             "name": "黄AV资源",
             "type": 0,
             "api": "https://www.pgxdy.com/api/xml.php",
-            "jar": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/custom_spider.jar",
+            "jar": "./custom_spider.jar",
             "searchable": 1,
             "recordable": 0,
             "style": {
@@ -488,7 +488,7 @@
             "name": "淫水机资源",
             "type": 0,
             "api": "https://www.xrbsp.com/api/xml.php",
-            "jar": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/custom_spider.jar",
+            "jar": "./custom_spider.jar",
             "searchable": 1,
             "recordable": 0,
             "style": {
@@ -501,7 +501,7 @@
             "name": "🈴白嫖资源",
             "type": 0,
             "api": "https://www.kxgav.com/api/xml.php",
-            "jar": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/custom_spider.jar",
+            "jar": "./custom_spider.jar",
             "searchable": 1,
             "recordable": 0,
             "style": {
@@ -514,7 +514,7 @@
             "name": "🔞155采集",
             "type": 0,
             "playerType": 2,
-            "jar": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/CFlLnSbJ",
+            "jar": "./CFlLnSbJ",
             "api": "https://155api.com/api.php/provide/vod/at/xml",
             "searchable": 0,
             "quickSearch": 0
@@ -525,7 +525,7 @@
             "type": 0,
             "api": "https://www.msnii.com/api/xml.php",
             "searchable": 1,
-            "jar": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/CFlLnSbJ",
+            "jar": "./CFlLnSbJ",
             "quickSearch": 1,
             "filterable": 0
         },
@@ -534,7 +534,7 @@
             "name": "🔞香奶儿",
             "type": 0,
             "api": "https://www.gdlsp.com/api/xml.php",
-            "jar": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/CFlLnSbJ",
+            "jar": "./CFlLnSbJ",
             "searchable": 1,
             "quickSearch": 1
         },
@@ -543,7 +543,7 @@
             "name": "🔞开心果",
             "type": 0,
             "api": "https://www.kxgav.com/api/xml.php",
-            "jar": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/CFlLnSbJ",
+            "jar": "./CFlLnSbJ",
             "searchable": 1,
             "quickSearch": 1
         },
@@ -1534,5 +1534,5 @@
         "cms.qdwght.com"
     ],
     "wallpaper": "https://tool.weetai.cn/api/images/05.png",
-    "spider": "https://raw.githubusercontent.com/canghaixiao369/ndd/main/jar/影视.jar"
+    "spider": ""
 }
