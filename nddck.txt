@@ -2,6 +2,8 @@
 	
 { "url": "https://ghcy.eu.org/https://raw.githubusercontent.com/canghaixiao369/ndd/main/bj.json", "name": "🌸自用影视🌸" },
 
+{ "url": "https://ghcy.eu.org/https://raw.githubusercontent.com/canghaixiao369/zyck/main/qita/18/18.json", "name": "🌸自用影视2🌸" },
+
 { "url": "http://52bsj.vip:98/wuai", "name": "🌺吾爱在线🌺" },
 
 { "url": "http://肥猫.live", "name": "🐼肥猫在线🐼" },
